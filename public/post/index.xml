@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Jucatyo - 内在的东西总是安全的</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Oct 2019 00:33:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2019 00:46:26 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关闭Win10强制更新终极大法，来自微软总部工程师</title>
+      <link>http://localhost:1313/post/close-windows-10-forced-update/</link>
+      <pubDate>Sat, 05 Oct 2019 00:46:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/close-windows-10-forced-update/</guid>
+      <description>Warning 由于需要修改注册表，请您提前将修改部分的注册表导出备份下。 操作步骤 在小娜中搜索Regedit，定位到[HKEY_LOCAL_MACHINE</description>
+    </item>
     
     <item>
       <title>查询自己名下有多少张联通卡</title>
