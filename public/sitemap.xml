@@ -3,21 +3,21 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-10-05T00:46:26+08:00</lastmod>
+    <lastmod>2019-10-05T00:56:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-10-05T00:46:26+08:00</lastmod>
+    <lastmod>2019-10-05T00:56:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/close-windows-10-forced-update/</loc>
-    <lastmod>2019-10-05T00:46:26+08:00</lastmod>
+    <lastmod>2019-10-05T00:56:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
