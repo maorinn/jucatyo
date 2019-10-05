@@ -16,10 +16,10 @@ theme:
   other: "Theme"
 
 siteUV:
-  other: "site uv: %s"
+  other: "%s 位小可爱"
 
 sitePV:
-  other: "site pv: %s"
+  other: "戳了 %s 次"
 
 pagePV:
   other: "%s times read"
