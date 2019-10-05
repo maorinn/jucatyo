@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jucatyo&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.jucatyo.com/</link>
     <description>Recent content on Jucatyo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 05 Oct 2019 00:46:26 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.jucatyo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关闭Win10强制更新终极大法，来自微软总部工程师</title>
-      <link>http://localhost:1313/post/close-windows-10-forced-update/</link>
+      <link>https://www.jucatyo.com/post/close-windows-10-forced-update/</link>
       <pubDate>Sat, 05 Oct 2019 00:46:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/close-windows-10-forced-update/</guid>
+      <guid>https://www.jucatyo.com/post/close-windows-10-forced-update/</guid>
       <description>Warning 由于需要修改注册表，请您提前将修改部分的注册表导出备份下。 操作步骤 在小娜中搜索Regedit，定位到[HKEY_LOCAL_MACHINE</description>
     </item>
     
     <item>
       <title>查询自己名下有多少张联通卡</title>
-      <link>http://localhost:1313/post/one-card-five-inquiries/</link>
+      <link>https://www.jucatyo.com/post/one-card-five-inquiries/</link>
       <pubDate>Sat, 05 Oct 2019 00:33:50 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/one-card-five-inquiries/</guid>
+      <guid>https://www.jucatyo.com/post/one-card-five-inquiries/</guid>
       <description>前言 联通客服是没有权限查询一证五号信息的，但给了个查询渠道 需要本人线下带身份证到归属地营业厅查询(要到那种比较大的营业厅)，查询出来的结果只</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.jucatyo.com/about/</link>
       <pubDate>Fri, 04 Oct 2019 21:07:18 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.jucatyo.com/about/</guid>
       <description>=。=</description>
     </item>
     
